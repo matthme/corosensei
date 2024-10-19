@@ -2,6 +2,7 @@ on:
   push:
     branches:
       - master
+      - rust-1.80.0
   pull_request:
 
 env:
